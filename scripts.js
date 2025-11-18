@@ -46,4 +46,4 @@ document.addEventListener('DOMContentLoaded', () => {
       else nav.style.display = 'block';
     });
   }
-});
+})
